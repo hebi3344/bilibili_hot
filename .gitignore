@@ -1,0 +1,20 @@
+# Python 缓存文件
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# PyCharm 本地项目配置（每个人的配置不一样，不用传）
+.idea/
+*.iml
+
+# SQLite 数据库文件（本地数据，属于临时文件，不传代码库）
+*.db
+
+# 系统垃圾文件
+.DS_Store
+Thumbs.db
+
+# Python 虚拟环境
+venv/
+env/
